@@ -1,6 +1,6 @@
-# tavola
+# tavola da viaggio
 
-A [re-frame](https://github.com/Day8/re-frame) application designed to ... well, that part is up to you.
+A [re-frame](https://github.com/Day8/re-frame) application designed to ... simplify dinner organization
 
 ## Development Mode
 
